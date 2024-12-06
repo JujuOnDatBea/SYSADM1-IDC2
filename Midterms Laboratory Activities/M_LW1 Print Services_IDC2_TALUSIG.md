@@ -63,7 +63,7 @@ Windows Server 2019.
 
 ![image](https://github.com/user-attachments/assets/4740d6c6-432c-4619-9294-42cdbffffe01)
 
-> ***Graph goes up every time the printer is used, indicating processor use.
+> Graph goes up every time the printer is used, indicating processor use.
 
 3.  Using Print Management Console:
 
@@ -75,7 +75,7 @@ Windows Server 2019.
 
 ![image](https://github.com/user-attachments/assets/b4b7f859-9e5a-4021-9e8d-2cd0f5728f21)
 
-> ***Printer currently not in use however ready to use.
+> Printer currently not in use however ready to use.
 
 Part 3: Exploring Third-Party Monitoring Tools
 
@@ -88,6 +88,7 @@ Part 3: Exploring Third-Party Monitoring Tools
 
 
 References:
+
 PaperCut MF - System requirements \| PaperCut*. (n.d.).
 https://www.papercut.com/products/mf/system-requirements/
 
