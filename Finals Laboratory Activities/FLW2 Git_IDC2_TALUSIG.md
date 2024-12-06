@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| c4eeb71d263543689004798449f53e87 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: TALUSIG, NIKOS A.          | DATE PERFORMED:        |          |
-|                                  | 11/21/24               |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 11/21/24               |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/7a1f8781-469e-4aa1-8671-e9123101ebe8)
+
 
 # SYSADM1 -- Git Basics
 
@@ -137,7 +124,7 @@ GitHub.
     Following these practices helps maintain clarity about project
     history and facilitates easier navigation through commits.
 
-***[References:]{.underline}***
+> References:
 
 Haffiyan, R. D. (2020, March 9). *Why Git is important in software
 development?*
