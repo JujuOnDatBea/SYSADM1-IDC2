@@ -25,7 +25,7 @@
 ![image](https://github.com/user-attachments/assets/de4a9a50-eeb5-4546-8d9b-251144f71ecd)
 
 
-Its major categories are application, security, setup, system, and
+> Its major categories are application, security, setup, system, and
 forwarded events.
 
 **Part 2: Filtering and Analyzing IIS Events**
@@ -33,19 +33,19 @@ forwarded events.
 1.  Apply filter to the windows log categories to display errors for the
     past 12 hours.
 
-Error filter for all categories:
+> Error filter for all categories:
 
 ![image](https://github.com/user-attachments/assets/491cd291-4b22-452f-8fb8-a02205c91c7f)
 
 
-Result:
+> Result:
 
 ![image](https://github.com/user-attachments/assets/2eae3716-bf23-47f2-b54a-607762dc7f1b)
 ![image](https://github.com/user-attachments/assets/325ae3c9-e172-4fc5-a91f-6b366a4f62f6)
 ![image](https://github.com/user-attachments/assets/c537b86a-2b77-46c9-991a-cc424932495f)
 
 
-10 errors and 23 warnings identified, with 5 errors and 2 warnings found for the application category while 5 errors and 21 warnings found for the system category.
+> 10 errors and 23 warnings identified, with 5 errors and 2 warnings found for the application category while 5 errors and 21 warnings found for the system category.
 
 2.  **Identify Critical Events** or recurring events.
 
@@ -84,17 +84,17 @@ Result:
 
 **1.** Overview
 
-During the review of the Event Viewer logs from a Windows Server 2012 machine running in a VirtualBox environment, I found that no critical errors occurred in the past 12 hours. However, there were a total of 33 events logged under the Warning and Error event levels.
+> During the review of the Event Viewer logs from a Windows Server 2012 machine running in a VirtualBox environment, I found that no critical errors occurred in the past 12 hours. However, there were a total of 33 events logged under the Warning and Error event levels.
 
 2\. Key Findings
 
 -   List the critical events you found. Example:
 
-    -   Event ID 34: Occurred 6 times between 8:32 am and 8:33 am Disk write cache disabled.
+>    -   Event ID 34: Occurred 6 times between 8:32 am and 8:33 am Disk write cache disabled.
 
-    -   Event ID 1014: Occurred 10 times between 8:14 am and 8:35 am DNS resolution issues.
+>    -   Event ID 1014: Occurred 10 times between 8:14 am and 8:35 am DNS resolution issues.
 
-    -   Event ID 10149: Occurred 2 times between 8:16 am and 8:32 am WinRM service no listening for management requests.
+>   -   Event ID 10149: Occurred 2 times between 8:16 am and 8:32 am WinRM service no listening for management requests.
 
 **3.** Root Causes and Solutions
 
