@@ -10,31 +10,29 @@ Part 1: Setting Up Print Services
 
 1.  Install and configure **print.srv** domain
 
-> ![](vertopal_477b2109c15a4e7787eb02505d423f98/media/image2.png){width="1.9794433508311462in"
-> height="1.4897911198600176in"}
+![image](https://github.com/user-attachments/assets/4ab3db85-c251-41d8-89be-7a9e3a08a5ea)
+
 
 2.  Connect one client to the recently created domain
 
-> ![](vertopal_477b2109c15a4e7787eb02505d423f98/media/image3.png){width="2.5732753718285215in"
-> height="1.5210454943132108in"}
+![image](https://github.com/user-attachments/assets/a9478e83-946b-4662-b09a-aac3a38d69f6)
 
 3.  Install Print Services Role:
 
-> ![](vertopal_477b2109c15a4e7787eb02505d423f98/media/image4.png){width="3.6234241032370953in"
-> height="1.4886297025371829in"}
+![image](https://github.com/user-attachments/assets/ddb3ec4e-9e33-43b5-84a8-1b14dc15a8f7)
+
 
 4.  Search the internet for any printer installer and convert it to iso
 
-> ![](vertopal_477b2109c15a4e7787eb02505d423f98/media/image5.png){width="6.323799212598425in"
-> height="0.3125437445319335in"}
+![image](https://github.com/user-attachments/assets/2db73d4c-4f0e-4ca1-b47c-23bbbf300829)
+
 
 5.  Install and deploy it as network printer
 
-> ![](vertopal_477b2109c15a4e7787eb02505d423f98/media/image6.png){width="4.813171478565179in"
-> height="1.7710804899387576in"}
->
-> ![](vertopal_477b2109c15a4e7787eb02505d423f98/media/image7.png){width="2.698292869641295in"
-> height="1.7294083552055992in"}
+![image](https://github.com/user-attachments/assets/acd6d440-4a3c-49a3-a14c-07a732b1efac)
+
+![image](https://github.com/user-attachments/assets/2c44777c-7a1a-4b10-8019-e35d99d04898)
+
 
 Part 2: Monitoring Print Services
 
@@ -50,8 +48,8 @@ Windows Server 2019.
 
     -   Review logs for print jobs, errors, and warnings.
 
-> ![](vertopal_477b2109c15a4e7787eb02505d423f98/media/image8.png){width="5.823729221347332in"
-> height="1.2085017497812773in"}
+![image](https://github.com/user-attachments/assets/8bf8a5e7-b1a3-48bd-88ab-bb5de45c7637)
+
 
 2.  Performance Monitor:
 
@@ -63,9 +61,8 @@ Windows Server 2019.
 
     -   Monitor performance metrics related to print services.
 
-> ![](vertopal_477b2109c15a4e7787eb02505d423f98/media/image9.png){width="3.175310586176728in"
-> height="1.8567366579177602in"}
->
+![image](https://github.com/user-attachments/assets/4740d6c6-432c-4619-9294-42cdbffffe01)
+
 > ***[Graph goes up every time the printer is used, indicating processor
 > use.]{.underline}***
 
@@ -77,9 +74,8 @@ Windows Server 2019.
 
     -   Use the Printers node to check the status of all printers.
 
-> ![](vertopal_477b2109c15a4e7787eb02505d423f98/media/image10.png){width="6.598837489063867in"
-> height="0.6338648293963255in"}
->
+![image](https://github.com/user-attachments/assets/b4b7f859-9e5a-4021-9e8d-2cd0f5728f21)
+
 > ***[Printer currently not in use however ready to use.]{.underline}***
 
 Part 3: Exploring Third-Party Monitoring Tools
@@ -144,16 +140,16 @@ https://www.gflesch.com/blog/best-print-management-software
 
     -   Choose one of the tools to install in your environment.
 
-> ![](vertopal_477b2109c15a4e7787eb02505d423f98/media/image11.png){width="6.372341426071741in"
-> height="2.602716535433071in"}
+![image](https://github.com/user-attachments/assets/0899c0b6-493d-45af-9fd6-33092db0ba1c)
+
 
 -   Follow the installation instructions provided by the tool\'s
     documentation.
 
 -   Configure it to monitor your print services.
 
-> ![](vertopal_477b2109c15a4e7787eb02505d423f98/media/image12.png){width="6.315321522309711in"
-> height="1.4448042432195976in"}
+![image](https://github.com/user-attachments/assets/bfb11839-1d9f-4038-9d20-411c2aed3bac)
+
 
 3.  Test and Report Findings:
 
