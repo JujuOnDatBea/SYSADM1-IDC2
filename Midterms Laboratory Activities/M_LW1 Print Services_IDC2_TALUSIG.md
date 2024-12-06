@@ -63,8 +63,7 @@ Windows Server 2019.
 
 ![image](https://github.com/user-attachments/assets/4740d6c6-432c-4619-9294-42cdbffffe01)
 
-> ***[Graph goes up every time the printer is used, indicating processor
-> use.]{.underline}***
+> ***Graph goes up every time the printer is used, indicating processor use.
 
 3.  Using Print Management Console:
 
@@ -76,7 +75,7 @@ Windows Server 2019.
 
 ![image](https://github.com/user-attachments/assets/b4b7f859-9e5a-4021-9e8d-2cd0f5728f21)
 
-> ***[Printer currently not in use however ready to use.]{.underline}***
+> ***Printer currently not in use however ready to use.
 
 Part 3: Exploring Third-Party Monitoring Tools
 
@@ -85,47 +84,10 @@ Part 3: Exploring Third-Party Monitoring Tools
     -   Consider factors such as features, pricing, and compatibility
         with Windows Server 2019.
 
-+-----------+--------------------------+-------------------------------+
-|           | PaperCut                 | UniFlow                       |
-+===========+==========================+===============================+
-| Features  | -   Supports mobile      | -   Supports mobile devices.  |
-|           |     devices              |                               |
-|           |                          | -   Offers over 50            |
-|           | -   Administrators can   |     > customizable reports    |
-|           |     set rules to control |     > for detailed analysis.  |
-|           |     and reduce printing  |                               |
-|           |     costs.               | -   Wide range compatibility  |
-|           |                          |     > of printers and         |
-|           | -   Provides insights    |     > multifunction devices.  |
-|           |     into print usage and |                               |
-|           |     cost savings.        | -   Print job and retrieval   |
-|           |                          |     > from any printer in the |
-|           | -   Sensitive documents  |     > network.                |
-|           |     are only printed     |                               |
-|           |     when user is present |                               |
-+-----------+--------------------------+-------------------------------+
-| Pricing   | -   Commercial business  | -   Free.                     |
-|           |     and educational      |                               |
-|           |     pricing ranges from  |                               |
-|           |     \$0-\$1385 depending |                               |
-|           |     on number of users.  |                               |
-|           |                          |                               |
-|           | -   Professional clients |                               |
-|           |     range from           |                               |
-|           |     \$692-\$1712         |                               |
-|           |     depending on number  |                               |
-|           |     of users.            |                               |
-+-----------+--------------------------+-------------------------------+
-| Comp      | -   Cross-platform,      | -   Designed to work with     |
-| atibility |     supports several     |     various printer brands    |
-|           |     major OS such as     |     and works well with       |
-|           |     macOS and Linux.     |     Windows Server 2019       |
-|           |     Compatible with      |     environments.             |
-|           |     Windows Server 2019  |                               |
-|           |     as well.             |                               |
-+-----------+--------------------------+-------------------------------+
+![image](https://github.com/user-attachments/assets/04dcf55a-d83a-487a-8065-325599b9cc6e)
 
-*References:\
+
+References:
 PaperCut MF - System requirements \| PaperCut*. (n.d.).
 https://www.papercut.com/products/mf/system-requirements/
 
