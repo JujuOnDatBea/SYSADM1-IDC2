@@ -1,18 +1,4 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 477b2109c15a4e7787eb02505d423f98 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: TALUSIG, NIKOS A.          | DATE PERFORMED:        | /50      |
-|                                  | 09/26/24               |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 09/26/24               |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/3135c8dc-223c-4a1a-8d13-0203db88f578)
 
 # SYSADM1 -- Monitoring Print Services in Windows Server 2019
 
