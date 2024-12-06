@@ -4,12 +4,12 @@ This repository contains my portfolio for SYSADM1, showcasing laboratory activit
 📁 Project Structure
 The repository is organized as follows:
 
-1st Grading
-Contains laboratory activities completed during the first grading period. Each folder includes relevant files.
+- 1st Grading  
+    Contains laboratory activities completed during the first grading period. Each folder includes relevant files.
 
-Midterms
-Includes projects and exercises from the midterm period, reflecting deeper understanding and application of course topics.
+- Midterms
+    Includes projects and exercises from the midterm period, reflecting deeper understanding and application of course topics.
 
-Finals
-Features final grading laboratory activities, showcasing advanced concepts and my overall growth in the subject.
+- Finals
+    Features final grading laboratory activities, showcasing advanced concepts and my overall growth in the subject.
 
