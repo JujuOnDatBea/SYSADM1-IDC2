@@ -277,85 +277,8 @@ System Administration
 
 **Course Reflection**
 
-What were your initial expectations for the course? Did the course meet,
-exceed, or fall short of these expectations?
+![image](https://github.com/user-attachments/assets/ad308999-6c31-4e13-80ea-744f55652259)
 
-+-----------------------------------------------------------------------+
-| > My initial expectation for the course was that I would be able to   |
-| > apply what I learned from server administration and continue to     |
-| > expound my knowledge further. The course was able to do just that.  |
-+=======================================================================+
-+-----------------------------------------------------------------------+
-
-What were the main topics or concepts covered in the course? How did
-these topics contribute to your understanding of the subject matter?
-
-+-----------------------------------------------------------------------+
-| > The main topics covered in the course were server and client web,   |
-| > print services, and linux directory commands. These topics helped   |
-| > me understand more about system administration as a whole.          |
-+=======================================================================+
-+-----------------------------------------------------------------------+
-
-Reflecting on your learning process, what were the most effective
-strategies or techniques that helped you grasp and retain the course
-material?
-
-+-----------------------------------------------------------------------+
-| > The most effective strategies that helped my grasp the materials    |
-| > were to practice and repeat. By doing so, I am able to do the tasks |
-| > efficiently.                                                        |
-+=======================================================================+
-+-----------------------------------------------------------------------+
-
-Were there any particular assignments, projects, or activities that
-significantly enhanced your learning experience? Why were they
-effective?
-
-+-----------------------------------------------------------------------+
-| > The tasks that greatly helped were hands-on tasks as this allows us |
-| > to apply the knowledge we learn from lectures to real-world         |
-| > applications.                                                       |
-+=======================================================================+
-+-----------------------------------------------------------------------+
-
-Did you encounter any challenges or difficulties during the course? How
-did you overcome these obstacles, and what did you learn from them?
-
-+-----------------------------------------------------------------------+
-| > The only challenge I encountered during the course were hardware    |
-| > challenges. It was hard to do hands-on tasks when the device you're |
-| > using is not compatible with some of the software used during       |
-| > laboratory activities.                                              |
-+=======================================================================+
-+-----------------------------------------------------------------------+
-
-Did the course encourage critical thinking and analysis? How did it
-promote higher-order thinking skills, such as problem-solving or
-decision-making?
-
-+-----------------------------------------------------------------------+
-| > It did as there are a lot of troubleshooting involved.              |
-+=======================================================================+
-+-----------------------------------------------------------------------+
-
-Reflecting on your personal growth, what new knowledge, skills, or
-perspectives did you gain from this course?
-
-+-----------------------------------------------------------------------+
-| > I learned how to efficiently create services for server-client      |
-| > setups, as well as use linux commands to make tasks easier.         |
-+=======================================================================+
-+-----------------------------------------------------------------------+
-
-How do you plan to apply what you have learned in this course to your
-future studies, career, or personal life?
-
-+-----------------------------------------------------------------------+
-| > I plan to apply my knowledge gained on this course on my future     |
-| > career in case some server/system administration is needed.         |
-+=======================================================================+
-+-----------------------------------------------------------------------+
 
 System Administration
 
