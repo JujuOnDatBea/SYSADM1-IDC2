@@ -12,3 +12,6 @@ The repository is organized as follows:
 
 - Finals    
         Features final grading laboratory activities, showcasing advanced concepts and my overall growth in the subject.
+
+📖 Portfolio
+- Contains all the activities from lecture and laboratory this semester.
